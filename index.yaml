@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app-java:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-16T23:44:21.831612+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ea567d8213fdf9a6b1bc3dfc07837d37a5b68abd9a7d45ba3ed4a0a1db55bcb6
+    name: app-java
+    type: application
+    urls:
+    - app-java-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-16T23:44:21.830882+05:30"
